@@ -1,0 +1,13 @@
+# Ignore Composer vendor directory
+/vendor/
+
+# Ignore environment variables
+.env
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
